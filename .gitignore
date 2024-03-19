@@ -1,0 +1,18 @@
+# python/editor specific files to ignore
+dist/
+build/
+pip-wheel-metadata/
+*.pyc
+*.pyo
+*.swo
+*.swp
+*.egg-info
+*.conf
+.coverage
+*~
+
+# Tox virtualenvs
+.tox
+
+# Ignore pipenv
+Pipfile
